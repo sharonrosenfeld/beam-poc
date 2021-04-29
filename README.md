@@ -1,3 +1,5 @@
+this project is initially forked from apach-beam starter. it contains a running pipeline deomnstrating several beam functions of maps and reduces ( groupBy ) etc.. 
+
 # Apache Beam Starter
 
 This is a starter repo for Apache Beam. You can read the blog post [A quick demo of Apache Beam with Docker](https://medium.com/@ecesena/a-quick-demo-of-apache-beam-with-docker-da98b99a502a).
